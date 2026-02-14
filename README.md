@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-Welcome to the **Santos Frontend** repository. This project contains the source code for my personal self-hosted website. It is a lightweight, static site built with core web technologies to ensure speed and simplicity.
+Welcome to the **Santos Frontend** repository. This project contains the source code for my personal self-hosted website hosted from home server. It is a lightweight, static site built with core web technologies to ensure speed and simplicity.
 
 **🌐 Live Site:** [https://titolab.top](https://titolab.top)
 

@@ -1,7 +1,3 @@
-Here is a simple, clean, and professional README for your personal self-hosting frontend project.
-
-***
-
 # 🚀 Santos Frontend
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2Ftitolab.top)](https://titolab.top)
